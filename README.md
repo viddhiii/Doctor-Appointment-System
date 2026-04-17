@@ -1,12 +1,12 @@
-# 🩺 Prescripto – Doctor Appointment System
+# 🩺 Prescripto - Doctor Appointment System
 
-**Prescripto** is a full-stack web application built to simplify doctor appointment booking, user profile management, and admin supervision — all in one place.
+**Prescripto** is a full-stack web application built to simplify doctor appointment booking, user profile management, and admin supervision - all in one place.
 
 This project was developed as part of my final year at **De Montfort University, Leicester**, using the Agile methodology.
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS, Vite
 - **Backend**: Node.js, Express.js, MongoDB
@@ -17,27 +17,27 @@ This project was developed as part of my final year at **De Montfort University,
 
 ---
 
-## 👩‍⚕️ Features
+##  Features
 
-### 🧑‍💻 Patient Module
+###  Patient Module
 - Register/Login
 - Book appointments
 - Pay online via Razorpay
 - View upcoming appointments
 
-### 👨‍⚕️ Doctor Module
+###  Doctor Module
 - Create and manage profile
 - Accept/decline appointments
 - View availability and schedule
 
-### 🛡️ Admin Panel
+###  Admin Panel
 - Approve doctor registration
 - View all users and bookings
 - Manage platform data
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ```bash
 # Clone the repo
@@ -54,13 +54,11 @@ npm install
 npm run server
 ```
 
-📌 Set up `.env` files in both frontend & backend folders for API keys and secrets.
+ Set up `.env` files in both frontend & backend folders for API keys and secrets.
 
 ---
 
-## 📸 Screenshots
-
-(You can upload screenshots in `/assets/screenshots` and embed them like this)
+##  Screenshots
 
 ```markdown
 ![Homepage](assets/screenshots/home.png)
@@ -69,10 +67,10 @@ npm run server
 
 ---
 
-## 📝 License
+##  License
 This project is licensed under the MIT License.
 
 ---
 
-### 🔗 Live Demo (optional)
-Add a link here if deployed on [Vercel](https://vercel.com) or [GitHub Pages](https://pages.github.com)
+### 🔗 Live Demo 
+
