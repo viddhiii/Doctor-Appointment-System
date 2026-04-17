@@ -60,7 +60,6 @@ npm run server
 
 ## 📸 Screenshots
 
-(You can upload screenshots in `/assets/screenshots` and embed them like this)
 
 ```markdown
 ![Homepage](assets/screenshots/home.png)
@@ -74,5 +73,4 @@ This project is licensed under the MIT License.
 
 ---
 
-### 🔗 Live Demo (optional)
-Add a link here if deployed on [Vercel](https://vercel.com) or [GitHub Pages](https://pages.github.com)
+
