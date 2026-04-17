@@ -1,6 +1,6 @@
 # 🩺 Prescripto – Doctor Appointment System
 
-**Prescripto** is a full-stack web application built to simplify doctor appointment booking, user profile management, and admin supervision — all in one place.
+**Prescripto** is a full-stack web application built to simplify doctor appointment booking, user profile management, and admin supervision - all in one place.
 
 This project was developed as part of my final year at **De Montfort University, Leicester**, using the Agile methodology.
 
