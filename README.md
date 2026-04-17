@@ -1,6 +1,6 @@
-# 🩺 Prescripto – Doctor Appointment System
+# 🩺 Prescripto - Doctor Appointment System
 
-**Prescripto** is a full-stack web application built to simplify doctor appointment booking, user profile management, and admin supervision — all in one place.
+**Prescripto** is a full-stack web application built to simplify doctor appointment booking, user profile management, and admin supervision - all in one place.
 
 This project was developed as part of my final year at **De Montfort University, Leicester**, using the Agile methodology.
 
@@ -60,7 +60,6 @@ npm run server
 
 ## 📸 Screenshots
 
-(You can upload screenshots in `/assets/screenshots` and embed them like this)
 
 ```markdown
 ![Homepage](assets/screenshots/home.png)
@@ -74,5 +73,3 @@ This project is licensed under the MIT License.
 
 ---
 
-### 🔗 Live Demo (optional)
-Add a link here if deployed on [Vercel](https://vercel.com) or [GitHub Pages](https://pages.github.com)
