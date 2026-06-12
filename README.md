@@ -1,8 +1,14 @@
 # 🩺 Prescripto - Doctor Appointment System
 
-**Prescripto** is a full-stack web application built to simplify doctor appointment booking, user profile management, and admin supervision - all in one place.
+A full-stack healthcare web application that digitalises doctor appointment booking, connecting patients, doctors, and administrators in one unified platform.
 
 This project was developed as part of my final year at **De Montfort University, Leicester**, using the Agile methodology.
+
+---
+
+##  Live Demo
+ **Patient App:** https://prescripto-frontend-inky.vercel.app
+ **Backend API:** https://doctor-appointment-backend-4o2s.onrender.com
 
 ---
 
@@ -14,16 +20,18 @@ This project was developed as part of my final year at **De Montfort University,
 - **Payment Gateway**: Razorpay
 - **Cloud Storage**: Cloudinary
 - **Version Control**: Git & GitHub
+- **Deployment:** Vercel (Frontend) + Render (Backend) + MongoDB Atlas (Database)
 
 ---
 
 ##  Features
 
 ###  Patient Module
-- Register/Login
-- Book appointments
-- Pay online via Razorpay
-- View upcoming appointments
+- Register and login securely
+- Browse doctors by speciality
+- Book appointments online
+- Pay via Razorpay
+- View and manage upcoming appointments
 
 ###  Doctor Module
 - Create and manage profile
@@ -37,38 +45,22 @@ This project was developed as part of my final year at **De Montfort University,
 
 ---
 
-##  Run Locally
-
+## Run Locally
 ```bash
 # Clone the repo
 git clone https://github.com/Vidhii2003/Doctor-Appointment-System.git
 
-# Install dependencies for frontend
+# Install and run frontend
 cd frontend
 npm install
 npm run dev
 
-# In another terminal, setup backend
+# Install and run backend
 cd ../backend
 npm install
 npm run server
 ```
 
- Set up `.env` files in both frontend & backend folders for API keys and secrets.
-
----
-
-##  Screenshots
-
-```markdown
-![Homepage](assets/screenshots/home.png)
-![Doctor Dashboard](assets/screenshots/doctor-dashboard.png)
-```
-
----
-
-##  License
-This project is licensed under the MIT License.
-
----
+## Built by
+Vidhi Prajapati — Full Stack Portfolio Project | De Montfort University, Leicester
 
