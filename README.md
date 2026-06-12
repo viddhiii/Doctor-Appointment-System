@@ -63,5 +63,5 @@ npm run server
 ```
 
 ## Built by
-Vidhi Prajapati — Full Stack Portfolio Project | De Montfort University, Leicester
+Vidhi Prajapati - Full Stack Portfolio Project | De Montfort University, Leicester
 
